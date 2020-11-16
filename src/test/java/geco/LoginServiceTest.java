@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import java.util.ArrayList;
 
-public class LoginGeneratorTest {
+public class LoginServiceTest {
 
     @Test
     public void testLoginExists() {
